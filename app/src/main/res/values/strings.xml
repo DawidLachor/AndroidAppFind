@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Find</string>
+    <string name="logo">Logo</string>
+    <string name="copy_text_from_clipboard">Copy text from clipboard</string>
+    <string name="find_phrase">Find phrase</string>
+    <string name="reset">Reset</string>
+    <string name="place_for_text_from_clipboard">Place for text from clipboard</string>
+</resources>
